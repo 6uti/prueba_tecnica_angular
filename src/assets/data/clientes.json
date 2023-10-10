@@ -1,0 +1,6 @@
+[
+    {"nombre": "Jonathan", "apellido": "Gutierrez", "edad": 30, "telefono":"9394853", "localidad":"Lima","estado":"Activado"},
+    {"nombre": "Pedro", "apellido": "Rojas", "edad": 25, "telefono":"345345", "localidad":"Lima","estado":"Activado"},
+    {"nombre": "Alexander", "apellido": "Ramos", "edad": 19, "telefono":"67745", "localidad":"Arequipa","estado":"Activado"},
+    {"nombre": "Nicolas", "apellido": "Rojas", "edad": 19, "telefono":"67745", "localidad":"Lima","estado":"Activado"}
+]
